@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python_Marks,NumPy_Marks,Pandas_Marks,Attendance_Percent
+STU001,Aarav Sharma,CSE,88,91,84,95
+STU002,Diya Rao,ISE,76,82,79,90
+STU003,Rohan Kumar,CSE,67,73,71,82
+STU004,Ananya Shetty,ECE,92,89,96,98
+STU005,Vikram Patel,ME,54,61,58,76
+STU006,Meera Nair,ISE,81,85,88,93
+STU007,Arjun Reddy,CSE,39,45,42,68
+STU008,Saanvi Joshi,ECE,73,77,80,88
+STU009,Kiran Das,ME,28,35,31,52
+STU010,Ishita Menon,CSE,95,94,92,99
+STU011,Aditya Rao,ISE,62,68,65,80
+STU012,Nisha Gowda,ECE,84,79,87,91
+STU013,Rahul Verma,ME,47,52,49,70
+STU014,Pooja Hegde,CSE,78,74,81,86
+STU015,Dev Malhotra,ISE,89,87,91,97
+STU016,Kavya Iyer,ECE,58,63,60,75
+STU017,Manoj Singh,ME,71,69,74,83
+STU018,Tara Kulkarni,CSE,33,41,38,60
+STU019,Neel Shah,ISE,86,80,84,94
+STU020,Sneha Pillai,ECE,64,72,68,89
