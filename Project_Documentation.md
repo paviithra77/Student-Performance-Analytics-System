@@ -3,10 +3,10 @@
 ## 1. Project Title
 **Student Performance Analytics System**
 
-Student Name: [Enter your name]  
-Student ID/Roll Number: [Enter your ID]  
+Student Name: [Pavithra S]  
+Student ID/Roll Number: [STU684b07ac55bd61749747628]  
 Course: Python with AI  
-Department/Class: [Enter your department/class]
+Department/Class: [ISE]
 
 ## 2. Objective
 The objective of this project is to analyze student marks and attendance using Python, NumPy and Pandas. It automates the calculation of total marks, average marks, grades and pass/fail status, and summarizes overall, subject-wise and department-wise performance.
