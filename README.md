@@ -1,15 +1,17 @@
-# 1. Project Title
+# Student Performance Analytics System
 
-**Student Performance Analytics System**
-
-| | |
+| Detail | Information |
 |---|---|
-| **Student Name** | [Your Name] |
+| **Student Name** | Pavithra |
 | **Course** | EWB Courses, Python with AI |
-| **College / Batch** | [Your College / Batch] |
-| **Submission Date** | [Date] |
+| **College / Batch** | [East Point College Of Engineering and Technology/ 2023-2027] |
+| **Submission Date** | 16 October 2026 |
 
 ---
+
+## 1. Project Title
+
+**Student Performance Analytics System**: a Python data-analysis project built with Pandas and NumPy.
 
 ## 2. Objective
 
@@ -20,6 +22,7 @@ Teachers often hold student marks in spreadsheets and have to work out totals, g
 - **Python 3**: core language (functions, loops, conditions, file handling)
 - **Pandas**: loading the CSV, DataFrame operations, grouping and sorting
 - **NumPy**: numerical calculations (class mean, array conversion)
+- **Git and GitHub**: version control and submission
 - No other libraries are used.
 
 ## 4. Dataset Description
@@ -113,7 +116,9 @@ Student_ID          Name Department  Average_Marks Grade
       S008   Divya Menon        CSE          88.00     A
 ```
 
-Screenshots: add your own here, for example `![Output](screenshots/output1.png)`.
+Screenshots of the program running:
+
+![Program output](screenshots/output1.png)
 
 ## 8. Final Outcome
 
@@ -129,15 +134,14 @@ It turns raw marks into a clear report that can be read without opening the code
 
 ## 9. Challenges & Learning
 
-*(Edit this section so it reflects your own experience.)*
-
 - **Challenge:** Deciding the pass rule. **Solution:** I required at least 40 marks in every subject so a strong subject cannot hide a failing one.
 - **Challenge:** Keeping the code readable. **Solution:** I split the work into small functions, one for each calculation or report section.
-- **Learning:** I practised DataFrame operations (`groupby`, `nlargest`, `idxmax`), NumPy calculations, loops with conditions, and pushing a project to GitHub.
+- **Challenge:** Pushing the project to GitHub for the first time. **Solution:** I created the repository, then used `git init`, `git add`, `git commit` and `git push` to upload the files.
+- **Learning:** I practised DataFrame operations (`groupby`, `nlargest`, `idxmax`), NumPy calculations, loops with conditions, and using Git and GitHub.
 
 ## 10. GitHub Repository
 
-[Paste your repository link here]
+https://github.com/paviithra77/Student-Performance-Analytics-System
 
 ---
 
@@ -153,11 +157,12 @@ Keep `students.csv` in the same folder as `main.py`.
 ## Project Structure
 
 ```
-student-performance-analytics/
+Student-Performance-Analytics-System/
 ├── main.py                           # program and analysis functions
 ├── students.csv                      # dataset (20 records)
 ├── student_performance_results.csv   # generated results
-├── requirements.txt
-├── .gitignore
-└── README.md                         # documentation
+├── requirements.txt                  # dependencies
+├── Project_Documentation.md          # project documentation
+├── screenshots/                      # output screenshots
+└── README.md                         # this file
 ```
